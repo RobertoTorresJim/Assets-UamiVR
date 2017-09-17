@@ -2,7 +2,7 @@
 * Carpeta contenedora de los assets del recorrido virtual de la UAM-I *
 ***********************************************************************
 
-Carpetas:
+Carpetas: Guia de como ordenar las carpetas de
 
 Blender: Contiene los modelos 3D en formato .blend 
 
@@ -14,9 +14,9 @@ Blender: Contiene los modelos 3D en formato .blend
 FBX: Contiene los modelos 3D en formato .fbx
 
 /fbx/buildings/
-fbx/misc/
-fbx/characters/
-fbx/terrain/
+/fbx/misc/
+/fbx/characters/
+/fbx/terrain/
 
 Texturas: Contiene las texturas de los modelos separadas en carpetas por
 cada uno de los modelos.
@@ -32,5 +32,17 @@ emisivo.
 
 Materiales: Contiene los materiales generados para cada uno de los objetos
 
-/materials
+/materials/
 
+SPP: Archivos editables de substance painter
+
+/SPP/
+
+***************************************************************************
+
+     ____      _______   _____   ______       ____      ____       __   ____
+    /    \    /  ____/ /  ___/  /  __  \     /    \    /    \     / /  /    \   
+   /   O  |  /  /__   /  /     /  /  \  \   /   O  |  /   O  |   / /  /  __  \
+  /    __/  /   __/  |  |     |  |   |  |  /    __/  /    __/   / /  /  / /  |  |
+ /  /\ \   /   /___   \ \____  \  \__/ /  /  /\ \   /  /\ \    / /  /  /_/  /
+/__/  \_\ /_______/    \____/   \_____/  /__/  \_\ /__/  \_\  /_/  /______/
