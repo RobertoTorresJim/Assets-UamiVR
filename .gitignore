@@ -1,0 +1,6 @@
+# Blender generates blend1 files
+*.blend1
+
+._.DS_Store
+
+
